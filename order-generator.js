@@ -27,6 +27,26 @@ const Menu = {
 		emoji: '🏃',
 		items: ["Fries", "Fries", "Rimjob", "Rimjob", "Soda"],
 	},
+	"Sugar Rush": {
+		price: 123,
+		emoji: '🍬',
+		items: ["Soda", "Cream Pie", "Rimjob"],
+	},
+	"Sweet Tooth": {
+		price: 162,
+		emoji: '🧂',
+		items: ["Orangotang Ice Cream", "Meteorite Ice Cream", "Mocha Shake", "Mocha Shake"],
+	},
+	"Salty Seaman": {
+		price: 38,
+		emoji: '🦷',
+		items: ["Fries", "Fries", "Soda", "Soda"],
+	},
+	"Glory to the mymack": {
+		price: 408,
+		emoji: '👑',
+		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda"],
+	},
 	// Burger Meals:
 	"Burger Meals:": {
 		header: true,
@@ -53,10 +73,6 @@ const Menu = {
 	"Bleeder Meal": {
 		price: 170,
 		items: ["Bleeder", "Fries", "Soda"],
-	},
-	"Meat Free Meal": {
-		price: 160,
-		items: ["Meat Free", "Fries", "Soda"],
 	},
 	// Individual Items:
 	"Individual Items:": {
