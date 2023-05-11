@@ -17,7 +17,7 @@ const Menu = {
 		price: 270,
 		items: ["Chicken Wrap", "Fries", "Soda"],
 	},
-	"Goat Cheese Combo": {
+	"Goat Cheese Wrap Combo": {
 		price: 270,
 		items: ["Goat Cheese Wrap", "Fries", "Soda"],
 	},
