@@ -150,7 +150,7 @@ const Menu = {
 	"Burger Meals:": {
 		header: true,
 	},
-	"Managers Meal": {
+	"Murder Meal": {
 		max: 4,
 		fileRenameException: true,
 		price: 250,
@@ -607,7 +607,7 @@ function loadPage() {
 			let icon = getIcon(item);
 			let comboName = item;
 			if (comboName.includes("Combo") || comboName.includes("Meal")) {
-				if (comboName !== 'Manager Meal') {
+				if (comboName !== 'Murder Meal') {
 					comboName = comboName.replace(" Combo", "").replace(" Meal", "");
 				}
 			}
