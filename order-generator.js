@@ -62,6 +62,10 @@ const Menu = {
 		price: 75,
 		items: ["Heartstopper"],
 	},
+	"The Prickly": {
+		price: 65,
+		items: ["The Prickly"],
+	},
 	"Double Shot": {
 		price: 300,
 		items: ["Double Shot"],
@@ -77,6 +81,14 @@ const Menu = {
 	"Simply Burger": {
 		price: 65,
 		items: ["Simply Burger"],
+	},
+	"Chicken Wrap": {
+		price: 65,
+		items: ["Chicken Wrap"],
+	},
+	"Goat Cheese Wrap": {
+		price: 65,
+		items: ["Goat Cheese Wrap"],
 	},
 	"Fries": {
 		price: 55,
@@ -94,6 +106,14 @@ const Menu = {
 		price: 48,
 		items: ["Mocha Shake"],
 	},
+	"Meteorite Ice Cream": {
+		price: 45,
+		items: ["Meteorite Ice Cream"],
+	},
+	"Orangotang Ice Cream": {
+		price: 45,
+		items: ["Orangotang Ice Cream"]
+	},
 //"10 Pack BurgerBits": {
  //  price: 1375,
  //  max: 1,
@@ -103,7 +123,7 @@ const Menu = {
 //}
 };
 const INDIVIDUAL_ITEMS = [
-	"Murder Meal", "Heartstopper", "Double Shot", "Bleeder", "Water", "Simply Burger", "Chicken Wrap", "The Prickly", "Goat Cheese Wrap",
+	"Murder Meal", "Heartstopper", "Double Shot", "Bleeder", "Water", "Simply Burger", "Chicken Wrap", "Goat Cheese Wrap", "The Prickly", "Goat Cheese Wrap",
 	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake", "Rimjob",
 ];
 
