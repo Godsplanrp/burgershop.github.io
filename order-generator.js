@@ -13,7 +13,7 @@ const Menu = {
 	"Wrap Combos:": {
 		header: true,
 	},
-	"Chicken Wrap": {
+	"Chicken Wrap Meal": {
 		price: 270,
 		items: ["Chicken Wrap", "Fries", "Soda"],
 	},
