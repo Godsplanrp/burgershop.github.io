@@ -38,13 +38,13 @@ const Menu = {
 		price: 175,
 		items: ["Heartstopper", "Fries", "Soda"],
 	},
-	"Money Shot Meal": {
+	"Double Shot Meal": {
 		price:375,
-		items: ["Money Shot", "Fries", "Soda"],
+		items: ["Double Shot", "Fries", "Soda"],
 	},
-	"Torpedo Meal": {
+	"Simply Burger Meal": {
 		price: 170,
-		items: ["Torpedo", "Fries", "Soda"],
+		items: ["Simply Burger", "Fries", "Soda"],
 	},
 	"Bleeder Meal": {
 		price: 170,
@@ -62,21 +62,25 @@ const Menu = {
 		price: 75,
 		items: ["Heartstopper"],
 	},
-	"Money Shot": {
+	"Double Shot": {
 		price: 300,
-		items: ["Money Shot"],
+		items: ["Double Shot"],
 	},
-	"Torpedo": {
+	"Taco": {
 		price: 70,
-		items: ["Torpedo"],
+		items: ["Taco"],
 	},
 	"Bleeder": {
 		price: 70,
 		items: ["Bleeder"],
 	},
-	"Meat Free": {
+	"Simply Burger": {
 		price: 65,
-		items: ["Meat Free"],
+		items: ["Simply Burger"],
+	},
+	"Fries": {
+		price: 55,
+		items: ["Fries"],
 	},
 	"Water": {
 		price: 45,
@@ -86,71 +90,10 @@ const Menu = {
 		price: 45,
 		items: ["Soda"]
 	},
-	"Milkshake": {
+	"Mocha Shake": {
 		price: 48,
-		items: ["Milkshake"],
+		items: ["Mocha Shake"],
 	},
-	"Fries": {
-		price: 55,
-		items: ["Fries"],
-	},
-	"Rimjob": {
-		price: 45,
-		items: ["Rimjob"],
-	},
-	"Cream Pie": {
-		price: 33,
-		items: ["Cream Pie"],
-	},
-	"Toy": {
-		price: 202,
-		max: 10,
-		noDiscount: true,
-		lastItem: false,
-		items: ["Toy"],
-	},
-	 "Bloody Fingers": {
-		price: 40,
-		max: 5,
-		noDiscount: false,
-		lastItem: false,
-		items: ["Bloody Fingers"],
-	},
-	"Salad": {
-	   price: 55,
-	   max: 5,
-	   noDiscount: false,
-	   lastItem: false,
-	   items: ["Salad"],
-   },
-	"Orange Juice": {
-	   price: 45,
-	   max: 5,
-	   noDiscount: false,
-	   lastItem: false,
-	   items: ["Orange Juice"],
-   },
-   "Lemonade": {
-	  price: 45,
-	  max: 5,
-	  noDiscount: false,
-	  lastItem: false,
-	  items: ["Orange Juice"],
-  },
-  "Lucky Rings": {
-	 price: 55,
-	 max: 5,
-	 noDiscount: false,
-	 lastItem: false,
-	 items: ["Lucky Rings"],
- },
- "BurgerBits": {
-	price: 75,
-	max: 5,
-	noDiscount: false,
-	lastItem: false,
-	items: ["BurgerBits"],
-}//,
 //"10 Pack BurgerBits": {
  //  price: 1375,
  //  max: 1,
@@ -160,8 +103,8 @@ const Menu = {
 //}
 };
 const INDIVIDUAL_ITEMS = [
-	"Murder Meal", "Heartstopper", "Money Shot", "Torpedo", "Bleeder", "Water", "Meat Free", "Chicken Wrap",
-	"Fries", "Soda", "Rimjob", "Cream Pie", "Milkshake", "Toy", "Bloody Fingers", "Salad", "Orange Juice", "Lemonade", "Lucky Rings", "BurgerBits", "10 Pack BurgerBits"
+	"Murder Meal", "Heartstopper", "Double Shot", "Bleeder", "Water", "Simply Burger", "Chicken Wrap", "The Prickly", "Goat Cheese Wrap",
+	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake",
 ];
 
 const buttons = {
