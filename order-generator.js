@@ -43,9 +43,9 @@ const Menu = {
 		items: ["Fries", "Fries", "Soda", "Soda"],
 	},
 	"Glory to the mymack": {
-		price: 500,
+		price: 720,
 		emoji: '👑',
-		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda"],
+		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream"],
 	},
 	// Burger Meals:
 	"Burger Meals:": {
