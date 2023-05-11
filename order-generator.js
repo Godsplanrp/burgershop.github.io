@@ -150,7 +150,7 @@ const Menu = {
 	"Burger Meals:": {
 		header: true,
 	},
-	"Murder Meal": {
+	"Managers Special": {
 		max: 4,
 		fileRenameException: true,
 		price: 250,
