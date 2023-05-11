@@ -15,7 +15,7 @@ const Menu = {
 	},
 	"Rimjob Combo": {
 		price: 270,
-		items: ["Chicken Wrap"],
+		items: ["Rimjob"],
 	},
 	// Variable combos:
 	"Running Man": {
