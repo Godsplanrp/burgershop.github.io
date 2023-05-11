@@ -63,59 +63,59 @@ const Menu = {
 		header: true,
 	},
 	"Heartstopper": {
-		price: 75,
+		price: 125,
 		items: ["Heartstopper"],
 	},
 	"The Prickly": {
-		price: 65,
+		price: 25,
 		items: ["The Prickly"],
 	},
 	"Double Shot": {
-		price: 300,
+		price: 55,
 		items: ["Double Shot"],
 	},
 	"Taco": {
-		price: 70,
+		price: 20,
 		items: ["Taco"],
 	},
 	"Bleeder": {
-		price: 70,
+		price: 45,
 		items: ["Bleeder"],
 	},
 	"Simply Burger": {
-		price: 65,
+		price: 30,
 		items: ["Simply Burger"],
 	},
 	"Chicken Wrap": {
-		price: 65,
+		price: 25,
 		items: ["Chicken Wrap"],
 	},
 	"Goat Cheese Wrap": {
-		price: 65,
+		price: 25,
 		items: ["Goat Cheese Wrap"],
 	},
 	"Fries": {
-		price: 55,
+		price: 15,
 		items: ["Fries"],
 	},
 	"Water": {
-		price: 45,
+		price: 5,
 		items: ["Water"],
 	},
 	"Soda": {
-		price: 45,
+		price: 6,
 		items: ["Soda"]
 	},
 	"Mocha Shake": {
-		price: 48,
+		price: 15,
 		items: ["Mocha Shake"],
 	},
 	"Meteorite Ice Cream": {
-		price: 45,
+		price: 10,
 		items: ["Meteorite Ice Cream"],
 	},
 	"Orangotang Ice Cream": {
-		price: 45,
+		price: 12,
 		items: ["Orangotang Ice Cream"]
 	},
 //"10 Pack BurgerBits": {
