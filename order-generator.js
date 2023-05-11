@@ -10,12 +10,12 @@ const Settings = {
 
 const Menu = {
 	// Combo Items:
-	"Combination Items:": {
+	"Wrap Combos:": {
 		header: true,
 	},
-	"Rimjob Combo": {
+	"Chicken Wrap Combo": {
 		price: 270,
-		items: ["Rimjob", "Rimjob", "Rimjob", "Rimjob", "Rimjob", "Rimjob"],
+		items: ["Chicken Wrap", "Fries", "Soda"],
 	},
 	// Variable combos:
 	"Running Man": {
