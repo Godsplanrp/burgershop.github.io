@@ -104,7 +104,7 @@ const Menu = {
 };
 const INDIVIDUAL_ITEMS = [
 	"Murder Meal", "Heartstopper", "Double Shot", "Bleeder", "Water", "Simply Burger", "Chicken Wrap", "The Prickly", "Goat Cheese Wrap",
-	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake",
+	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake", "Rimjob",
 ];
 
 const buttons = {
