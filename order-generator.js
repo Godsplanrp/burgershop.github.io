@@ -130,7 +130,7 @@ const discounts = {
 		percent: .50,
 		desc: '50% Discount (PD, EMS, BS Employees...)',
 	},
-	"half_off": {
+	"5pcnt_off": {
 		percent: .05,
 		desc: '5% Discount (<font color="red">LIMITED TIME</font>)',
 	},
