@@ -13,9 +13,9 @@ const Menu = {
 	"Wrap Combos:": {
 		header: true,
 	},
-	"Chicken Wrap Combo": {
+	"Rimjob Combo": {
 		price: 270,
-		items: ["Chicken Wrap", "Fries", "Soda"],
+		items: ["Rimjob", "Rimjob", "Rimjob", "Rimjob", "Rimjob", "Rimjob"],
 	},
 	// Variable combos:
 	"Running Man": {
