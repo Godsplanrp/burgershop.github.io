@@ -150,7 +150,7 @@ const Menu = {
 	"Burger Meals:": {
 		header: true,
 	},
-	"Managers Special": {
+	"Managers Meal": {
 		max: 4,
 		fileRenameException: true,
 		price: 250,
@@ -283,7 +283,7 @@ const Menu = {
 //}
 };
 const INDIVIDUAL_ITEMS = [
-	"Murder Meal", "Heartstopper", "Money Shot", "Torpedo", "Bleeder", "Water", "Meat Free",
+	"Murder Meal", "Heartstopper", "Money Shot", "Torpedo", "Bleeder", "Water", "Meat Free", "Chicken Wrap",
 	"Fries", "Soda", "Rimjob", "Cream Pie", "Milkshake", "Toy", "Bloody Fingers", "Salad", "Orange Juice", "Lemonade", "Lucky Rings", "BurgerBits", "10 Pack BurgerBits"
 ];
 
@@ -607,7 +607,7 @@ function loadPage() {
 			let icon = getIcon(item);
 			let comboName = item;
 			if (comboName.includes("Combo") || comboName.includes("Meal")) {
-				if (comboName !== 'Murder Meal') {
+				if (comboName !== 'Manager Meal') {
 					comboName = comboName.replace(" Combo", "").replace(" Meal", "");
 				}
 			}
