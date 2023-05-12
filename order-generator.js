@@ -83,7 +83,7 @@ const Menu = {
 		header: true,
 	},
 	"Heartstopper": {
-		price: 125,
+		price: 140,
 		items: ["Heartstopper"],
 	},
 	"The Prickly": {
@@ -91,7 +91,7 @@ const Menu = {
 		items: ["The Prickly"],
 	},
 	"Double Shot": {
-		price: 55,
+		price: 60,
 		items: ["Double Shot"],
 	},
 	"Taco": {
@@ -99,7 +99,7 @@ const Menu = {
 		items: ["Taco"],
 	},
 	"Bleeder": {
-		price: 45,
+		price: 50,
 		items: ["Bleeder"],
 	},
 	"Simply Burger": {
