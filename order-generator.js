@@ -27,10 +27,10 @@ const Menu = {
 		emoji: '🏃',
 		items: ["Fries", "Fries", "Rimjob", "Rimjob", "Soda"],
 	},
-	"Sugar Rush": {
-		price: 123,
+	"Taco Lovers": {
+		price: 175,
 		emoji: '🍬',
-		items: ["Soda", "Cream Pie", "Rimjob"],
+		items: ["Soda", "fries", "fries", "taco", "taco", "taco", "taco", "taco"],
 	},
 	"Sweet Tooth": {
 		price: 162,
