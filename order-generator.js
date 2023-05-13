@@ -22,7 +22,6 @@ const Menu = {
 		items: ["Goat Cheese Wrap", "Fries", "Soda"],
 	},
 	// Variable combos:
-	"Running Man": {
 	"Taco Lovers": {
 		price: 600,
 		emoji: '🍬',
