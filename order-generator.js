@@ -38,7 +38,7 @@ const Menu = {
 		items: ["Fries", "Fries", "Soda", "Soda"],
 	},
 	"Glory to the mymack": {
-		price: 720,
+		price: 1700,
 		emoji: '👑',
 		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream"],
 	},
@@ -58,19 +58,19 @@ const Menu = {
 		items: ["Heartstopper", "Fries", "Soda"],
 	},
 	"Double Shot Meal": {
-		price:85,
+		price:250,
 		items: ["Double Shot", "Fries", "Soda"],
 	},
 	"Simply Burger Meal": {
-		price: 60,
+		price: 200,
 		items: ["Simply Burger", "Fries", "Soda"],
 	},
 	"Bleeder Meal": {
-		price: 75,
+		price: 255,
 		items: ["Bleeder", "Fries", "Soda"],
 	},
 	"The Prickly Meal": {
-		price: 75,
+		price: 205,
 		items: ["The Prickly", "Fries", "Soda"],
 	},
 	// Individual Items:
