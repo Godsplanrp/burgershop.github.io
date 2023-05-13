@@ -54,7 +54,7 @@ const Menu = {
 		items: ["Murder Meal"],
 	},
 	"Heartstopper Meal": {
-		price: 175,
+		price: 325,
 		items: ["Heartstopper", "Fries", "Soda"],
 	},
 	"Double Shot Meal": {
