@@ -14,31 +14,27 @@ const Menu = {
 		header: true,
 	},
 	"Chicken Wrap Combo": {
-		price: 60,
+		price: 150,
 		items: ["Chicken Wrap", "Fries", "Soda"],
 	},
 	"Goat Cheese Wrap Combo": {
-		price: 55,
+		price: 150,
 		items: ["Goat Cheese Wrap", "Fries", "Soda"],
 	},
 	// Variable combos:
 	"Running Man": {
-		price: 245,
-		emoji: '🏃',
-		items: ["Fries", "Fries", "Rimjob", "Rimjob", "Soda"],
-	},
 	"Taco Lovers": {
-		price: 175,
+		price: 600,
 		emoji: '🍬',
 		items: ["Soda", "fries", "fries", "taco", "taco", "taco", "taco", "taco"],
 	},
 	"Sweet Tooth": {
-		price: 162,
+		price: 600,
 		emoji: '🧂',
 		items: ["Orangotang Ice Cream", "Meteorite Ice Cream", "Mocha Shake", "Mocha Shake"],
 	},
 	"Salty Seaman": {
-		price: 38,
+		price: 60,
 		emoji: '🦷',
 		items: ["Fries", "Fries", "Soda", "Soda"],
 	},
@@ -83,39 +79,39 @@ const Menu = {
 		header: true,
 	},
 	"Heartstopper": {
-		price: 140,
+		price: 250,
 		items: ["Heartstopper"],
 	},
 	"The Prickly": {
-		price: 25,
+		price: 150,
 		items: ["The Prickly"],
 	},
 	"Double Shot": {
-		price: 60,
+		price: 200,
 		items: ["Double Shot"],
 	},
 	"Taco": {
-		price: 20,
+		price: 100,
 		items: ["Taco"],
 	},
 	"Bleeder": {
-		price: 50,
+		price: 200,
 		items: ["Bleeder"],
 	},
 	"Simply Burger": {
-		price: 30,
+		price: 150,
 		items: ["Simply Burger"],
 	},
 	"Chicken Wrap": {
-		price: 25,
+		price: 100,
 		items: ["Chicken Wrap"],
 	},
 	"Goat Cheese Wrap": {
-		price: 25,
+		price: 100,
 		items: ["Goat Cheese Wrap"],
 	},
 	"Fries": {
-		price: 15,
+		price: 50,
 		items: ["Fries"],
 	},
 	"Water": {
@@ -123,19 +119,19 @@ const Menu = {
 		items: ["Water"],
 	},
 	"Soda": {
-		price: 6,
+		price: 25,
 		items: ["Soda"]
 	},
 	"Mocha Shake": {
-		price: 15,
+		price: 200,
 		items: ["Mocha Shake"],
 	},
 	"Meteorite Ice Cream": {
-		price: 10,
+		price: 200,
 		items: ["Meteorite Ice Cream"],
 	},
 	"Orangotang Ice Cream": {
-		price: 12,
+		price: 200,
 		items: ["Orangotang Ice Cream"]
 	},
 //"10 Pack BurgerBits": {
