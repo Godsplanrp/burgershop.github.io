@@ -25,7 +25,7 @@ const Menu = {
 	"Taco Lovers": {
 		price: 600,
 		emoji: '🍬',
-		items: ["Soda", "Fries", "Fries", "Taco", "Taco", "Taco", "Taco", "Taco"],
+		items: ["Soda", "Soda", "Soda", "Fries", "Fries", "Taco", "Taco", "Taco", "Taco", "Taco"],
 	},
 	"Sweet Tooth": {
 		price: 600,
@@ -126,11 +126,11 @@ const Menu = {
 		items: ["Mocha Shake"],
 	},
 	"Meteorite Ice Cream": {
-		price: 200,
+		price: 350,
 		items: ["Meteorite Ice Cream"],
 	},
 	"Orangotang Ice Cream": {
-		price: 200,
+		price: 350,
 		items: ["Orangotang Ice Cream"]
 	},
 	"Delivery Fee": {
