@@ -171,7 +171,7 @@ const buttons = {
 const discounts = {
 	"half_off": {
 		percent: .50,
-		desc: '50% Discount (PD, EMS, BS Employees...)',
+		desc: '50% Discount (BS Employees...)',
 	},
 	"5pcnt_off": {
 		percent: .05,
