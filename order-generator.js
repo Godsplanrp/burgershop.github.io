@@ -25,7 +25,7 @@ const Menu = {
 	"Taco Lovers": {
 		price: 600,
 		emoji: '🍬',
-		items: ["Soda", "Fries", "Fries", "Taco", "Taco", "Taco", "taco", "Taco"],
+		items: ["Soda", "Fries", "Fries", "Taco", "Taco", "Taco", "Taco", "Taco"],
 	},
 	"Sweet Tooth": {
 		price: 600,
