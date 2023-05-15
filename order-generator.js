@@ -25,7 +25,7 @@ const Menu = {
 	"Taco Lovers": {
 		price: 600,
 		emoji: '🍬',
-		items: ["Soda", "fries", "fries", "taco", "taco", "taco", "taco", "taco"],
+		items: ["Soda", "Fries", "Fries", "Taco", "Taco", "Taco", "taco", "Taco"],
 	},
 	"Sweet Tooth": {
 		price: 600,
@@ -133,6 +133,10 @@ const Menu = {
 		price: 200,
 		items: ["Orangotang Ice Cream"]
 	},
+	"Delivery Fee": {
+		price: 35,
+		items: ["Delivery Fee"]
+	},
 //"10 Pack BurgerBits": {
  //  price: 1375,
  //  max: 1,
@@ -143,7 +147,7 @@ const Menu = {
 };
 const INDIVIDUAL_ITEMS = [
 	"Murder Meal", "Heartstopper", "Double Shot", "Bleeder", "Water", "Simply Burger", "Chicken Wrap", "Goat Cheese Wrap", "The Prickly",
-	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake", "Rimjob",
+	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake", "Delivery Fee",
 ];
 
 const buttons = {
