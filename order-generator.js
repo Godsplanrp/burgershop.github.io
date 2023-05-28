@@ -39,16 +39,19 @@ const Menu = {
 	},
 	"Glory to the mymack": {
 		price: 1700,
+		noDiscount: true,
 		emoji: '👑',
 		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Meteorite Ice Cream", "Meteorite Ice Cream"],
 	},
 	"Workers Special (20)": {
 		price: 4000,
+		noDiscount: true,
 		emoji: '💲',
 		items: ["Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake"],
 	},
 	"Workers Special (50)": {
 		price: 10000,
+		noDiscount: true,
 		emoji: '💲',
 		items: ["Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake"],
 	},
