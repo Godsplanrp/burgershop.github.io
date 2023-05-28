@@ -14,11 +14,11 @@ const Menu = {
 		header: true,
 	},
 	"Chicken Wrap Combo": {
-		price: 150,
+		price: 200,
 		items: ["Chicken Wrap", "Fries", "Soda"],
 	},
 	"Goat Cheese Wrap Combo": {
-		price: 150,
+		price: 200,
 		items: ["Goat Cheese Wrap", "Fries", "Soda"],
 	},
 	// Variable combos:
@@ -28,7 +28,7 @@ const Menu = {
 		items: ["Soda", "Soda", "Soda", "Fries", "Fries", "Taco", "Taco", "Taco", "Taco", "Taco"],
 	},
 	"Sweet Tooth": {
-		price: 600,
+		price: 650,
 		emoji: '🧂',
 		items: ["Orangotang Ice Cream", "Meteorite Ice Cream", "Mocha Shake"],
 	},
@@ -54,23 +54,23 @@ const Menu = {
 		items: ["Murder Meal"],
 	},
 	"Heartstopper Meal": {
-		price: 325,
+		price: 350,
 		items: ["Heartstopper", "Fries", "Soda"],
 	},
 	"Double Shot Meal": {
-		price:250,
+		price:300,
 		items: ["Double Shot", "Fries", "Soda"],
 	},
 	"Simply Burger Meal": {
-		price: 200,
+		price: 250,
 		items: ["Simply Burger", "Fries", "Soda"],
 	},
 	"Bleeder Meal": {
-		price: 255,
+		price: 285,
 		items: ["Bleeder", "Fries", "Soda"],
 	},
 	"The Prickly Meal": {
-		price: 205,
+		price: 275,
 		items: ["The Prickly", "Fries", "Soda"],
 	},
 	// Individual Items:
@@ -78,23 +78,23 @@ const Menu = {
 		header: true,
 	},
 	"Heartstopper": {
-		price: 250,
+		price: 300,
 		items: ["Heartstopper"],
 	},
 	"The Prickly": {
-		price: 150,
+		price: 200,
 		items: ["The Prickly"],
 	},
 	"Double Shot": {
-		price: 200,
+		price: 220,
 		items: ["Double Shot"],
 	},
 	"Taco": {
-		price: 100,
+		price: 120,
 		items: ["Taco"],
 	},
 	"Bleeder": {
-		price: 200,
+		price: 230,
 		items: ["Bleeder"],
 	},
 	"Simply Burger": {
@@ -102,11 +102,11 @@ const Menu = {
 		items: ["Simply Burger"],
 	},
 	"Chicken Wrap": {
-		price: 100,
+		price: 150,
 		items: ["Chicken Wrap"],
 	},
 	"Goat Cheese Wrap": {
-		price: 100,
+		price: 150,
 		items: ["Goat Cheese Wrap"],
 	},
 	"Fries": {
@@ -122,7 +122,7 @@ const Menu = {
 		items: ["Soda"]
 	},
 	"Mocha Shake": {
-		price: 200,
+		price: 275,
 		items: ["Mocha Shake"],
 	},
 	"Meteorite Ice Cream": {
@@ -132,6 +132,10 @@ const Menu = {
 	"Orangotang Ice Cream": {
 		price: 350,
 		items: ["Orangotang Ice Cream"]
+	},
+	"BS Bag": {
+		price: 15,
+		items: ["BS Bag"]
 	},
 	"Delivery Fee": {
 		price: 35,
@@ -147,7 +151,7 @@ const Menu = {
 };
 const INDIVIDUAL_ITEMS = [
 	"Murder Meal", "Heartstopper", "Double Shot", "Bleeder", "Water", "Simply Burger", "Chicken Wrap", "Goat Cheese Wrap", "The Prickly",
-	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake", "Delivery Fee", "Taco",
+	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake", "Delivery Fee", "Taco", "BS Bag",
 ];
 
 const buttons = {
