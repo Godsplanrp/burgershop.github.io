@@ -30,7 +30,7 @@ const Menu = {
 	"Sweet Tooth": {
 		price: 600,
 		emoji: '🧂',
-		items: ["Orangotang Ice Cream", "Meteorite Ice Cream", "Mocha Shake", "Mocha Shake"],
+		items: ["Orangotang Ice Cream", "Meteorite Ice Cream", "Mocha Shake"],
 	},
 	"Salty Seaman": {
 		price: 60,
@@ -40,7 +40,7 @@ const Menu = {
 	"Glory to the mymack": {
 		price: 1700,
 		emoji: '👑',
-		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream", "Meteorite Ice Cream"],
+		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Meteorite Ice Cream", "Meteorite Ice Cream"],
 	},
 	// Burger Meals:
 	"Burger Meals:": {
