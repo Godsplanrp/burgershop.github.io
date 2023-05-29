@@ -37,11 +37,16 @@ const Menu = {
 		emoji: '🦷',
 		items: ["Fries", "Fries", "Soda", "Soda"],
 	},
+	"Burgerhead Special": {
+		price: 60,
+		emoji: '🍔',
+		items: ["Heartstopper", "Heartstopper", "Fries", "Fries", "Soda", "Soda", "BS Bag"],
+	},
 	"Glory to the mymack": {
 		price: 1700,
 		noDiscount: true,
 		emoji: '👑',
-		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Meteorite Ice Cream", "Meteorite Ice Cream"],
+		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Meteorite Ice Cream", "Meteorite Ice Cream", "BS Bag"],
 	},
 	"Workers Special (20)": {
 		price: 4000,
