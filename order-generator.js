@@ -38,7 +38,7 @@ const Menu = {
 		items: ["Fries", "Fries", "Soda", "Soda"],
 	},
 	"Burgerhead Special": {
-		price: 60,
+		price: 1435,
 		emoji: '🍔',
 		items: ["Heartstopper", "Heartstopper", "Fries", "Fries", "Soda", "Soda", "BS Bag"],
 	},
