@@ -54,13 +54,13 @@ const Menu = {
 		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Meteorite Ice Cream", "Meteorite Ice Cream", "BS Bag"],
 	},
 	"Workers Special (20)": {
-		price: 4000,
+		price: 3000,
 		noDiscount: true,
 		emoji: '💲',
 		items: ["Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake"],
 	},
 	"Workers Special (50)": {
-		price: 10000,
+		price: 7500,
 		noDiscount: true,
 		emoji: '💲',
 		items: ["Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake"],
@@ -145,7 +145,7 @@ const Menu = {
 		items: ["Soda"]
 	},
 	"Mocha Shake": {
-		price: 250,
+		price: 150,
 		items: ["Mocha Shake"],
 	},
 	"Meteorite Ice Cream": {
