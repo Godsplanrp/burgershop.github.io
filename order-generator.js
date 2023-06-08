@@ -42,7 +42,7 @@ const Menu = {
 		emoji: '🍔',
 		items: ["Heartstopper", "Heartstopper", "Fries", "Fries", "Soda", "Soda", "BS Bag"],
 	},
-	"Pimp Daddy Meal": {
+	"Pimp Daddy": {
 		price: 800,
 		emoji: '🍔',
 		items: ["The Prickly", "Chicken Wrap", "Fries", "Fries", "Soda", "Soda",  "Soda", "Soda", "Orangotang Ice Cream", "BS Bag"],
